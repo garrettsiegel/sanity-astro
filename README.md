@@ -1,1 +1,1 @@
-# sanity-astro
+Headless Astro x Sanity Site Setup
